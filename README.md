@@ -5,7 +5,16 @@ ProjectForge is a comprehensive project management application built with Vue.js
 ## Screenshots
 **Login**
 ![Screenshot 1](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/login.png)
-
+**Users**
+![Screenshot 2](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/users.png)
+**Update User**
+![Screenshot 3](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/user_update.png)
+**Departments**
+![Screenshot 4](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/departments.png)
+**Roles**
+![Screenshot 5](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/roles.png)
+**Permissions**
+![Screenshot 6](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/permissions.png)
 ## Features
 
 - **Task Management**: Create, assign, and track tasks effortlessly within projects.
