@@ -4,17 +4,17 @@
 ProjectForge is a comprehensive project management application built with Vue.js, Vuex, and Laravel API. It provides a user-friendly interface for managing tasks, roles, and permissions, empowering administrators to efficiently organize and oversee projects.
 ## Screenshots
 **Login**
-![Screenshot 1](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/login.png)
+![Screenshot 1](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/login.png)
 **Users**
-![Screenshot 2](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/users.png)
+![Screenshot 2](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/users.png)
 **Update User**
-![Screenshot 3](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/user_update.png)
+![Screenshot 3](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/user_update.png)
 **Departments**
-![Screenshot 4](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/departments.png)
+![Screenshot 4](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/departments.png)
 **Roles**
-![Screenshot 5](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/roles.png)
+![Screenshot 5](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/roles.png)
 **Permissions**
-![Screenshot 6](https://github.com/Rokaya-mk/ProjectForge/blob/main/public/images/permissions.png)
+![Screenshot 6](https://github.com/Rokaya-mk/ProjectForge/project-forge-back/blob/main/public/images/permissions.png)
 ## Features
 
 - **Task Management**: Create, assign, and track tasks effortlessly within projects.
@@ -48,9 +48,11 @@ cd ProjectForge
 
 ```bash
 # Frontend
+cd project-forge-front
 npm install
 
 # Backend
+cd project-forge-back
 composer install
 ```
 
@@ -74,7 +76,7 @@ php artisan migrate --seed
 
 ```bash
 # Frontend
-npm run dev
+npm run serve
 
 # Backend
 php artisan serve
